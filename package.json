@@ -1,0 +1,10 @@
+{
+	"dependencies": {
+		"@vitest/coverage-v8": "^2.1.2",
+		"skia-canvas": "^1.0.2",
+		"vitest": "^2.1.2"
+	},
+	"scripts": {
+		"test": "vitest run"
+	}
+}
